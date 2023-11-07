@@ -1,0 +1,16 @@
+a=3
+b=4
+c=a+b
+d=3-(4+5)
+print c
+def sum(a,b): return a+b
+
+f=sum(5,6)
+def check20(a):
+a=a+b
+while a==20:
+a=a+b
+
+return (a+20)
+
+print "Hello World"
